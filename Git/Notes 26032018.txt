@@ -1,0 +1,54 @@
+Devops is a culture. Agile and automation
+
+set of tools for automation
+
+Containerazation - Dockers
+
+code repository tools - Jenkins (built on hudson servers), git hub, bit bucket, 
+
+Continious Integration:
+
+Reporting:
+
+Monitoring:
+
+Issue tracking: JIRA
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Maven (eclips sts, if there no need to install)
+Gradle (eclips sts, if there no need to install)
+Jenkins -- to work on it just need a var file
+git/github/bitbucket
+junit
+tdd
+nexus, sonatype (diff servers)
+sonarqube (diff servers)
+
+-----------------------
+bdd--cucumber
+junit, mockito
+maven
+
+all CI topics
+
+------------------------
+jenkins bdd concepts
+single click deployments
+continious delivery using spinnaker(Cont.deployment)/delivery pipeline (cont.deplyment)
+
+--------------------------
+
+set up environemtn:
+ Eclips path: C:\Users\Learning\CI
+
+
+
+
+
+
+
+
+
+
+
