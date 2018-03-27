@@ -1,0 +1,95 @@
+Devops is a culture. Agile and automation
+
+set of tools for automation
+
+Containerazation - Dockers
+
+code repository tools - Jenkins (built on hudson servers), git hub, bit bucket, 
+
+Continious Integration:
+
+Reporting:
+
+Monitoring:
+
+Issue tracking: JIRA
+
+My GIT hub location
+https://github.com/chapidi99/KiranChapidi/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Maven (eclips sts, if there no need to install)
+Gradle (eclips sts, if there no need to install)
+Jenkins -- to work on it just need a var file
+git/github/bitbucket
+junit
+tdd
+nexus, sonatype (diff servers)
+sonarqube (diff servers)
+
+-----------------------
+bdd--cucumber
+junit, mockito
+maven
+
+all CI topics
+
+------------------------
+jenkins bdd concepts
+single click deployments
+continious delivery using spinnaker(Cont.deployment)/delivery pipeline (cont.deplyment)
+
+--------------------------
+
+set up environemtn:
+ Eclips path: C:\Users\Learning\CI
+Eclipse shotrcut on desktop
+
+software links locatin: D:\CICD software links
+
+Below si the JDK location:
+C:\Program Files\Java\jre1.8.0_74\bin\javaw.exe
+
+--------------------------------
+
+Jenkins link (For CI)
+https://jenkins.io/download/
+
+Architecture, options, etc will be discussed
+
+---------------------------------
+
+sonatype nexus repository link:
+ 
+https://www.sonatype.com/nexus-repository-sonatype
+
+----------------------------------
+
+Any Maven can be loacted from below
+
+http://maven.apache.org/
+
+----------------------------------
+
+continious quality 
+
+sonar cube:
+
+sonarqube.org
+
+sonarqube will be integrted with jenkins:
+
+------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
