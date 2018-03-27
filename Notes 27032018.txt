@@ -1,0 +1,60 @@
+Maven:
+
+tried to ruin a job in jenkins, it will first check for maven, if not found, it will not work.
+alternative to Jenkins is Gradel.
+
+Maven is popular in the industry.
+
+maven - zip - no need to install
+gradle - zip - no need to install
+jenkins - comes in War, exe, docker, server file always better to go with War file - no need to install
+git - exe is instable
+github - web browser - no need to install
+bitbucket - web browser, clousd - no need to install
+tdd - no need to install
+nexus sonatype - executable files - no need to install
+sonarqube - executable files
+ec
+
+
+MDC
+
+bdd--cucumber
+junit, mockito
+all CI topics
+jenkins bdd concenpts
+single click deployments
+continuodui delivery using spinnaker/delivery pipeline
+
+
+what is Maven:
+
+migration for dependency, dealing with version, downloading the jar files, example twitter.jar
+
+In Maven then is a config(pom.xml) we need to give which jar file you need to download, maven will download.
+
+Maven will read the pom.xml file and use the information to download. Always update pom.xml when you need latest jar files need to be download
+
+what is there is pom.xml file -  <Dependency> <Repository> <> --- BA or functional consultant design the pom.xml file
+
+public repository and corporate repositiory: Maven is known for public repository:
+
+there also will be local repository (.m2) is a local repository name users--> learning is the path
+
+Nexus is providing many tools for devops and micro services
+
+like pom.xml file we are also having settings.xml (proxy, gateway, ) is a must which is fixed for the corporate repository.
+
+http://mvnrepository.com/ 
+sslshopper.com 
+digital certificates from godaddy etc,.. purchase the certificate and 
+
+for http://mvnrepository.com/ all other repositories are connected to it.
+
+
+
+
+
+
+
+
