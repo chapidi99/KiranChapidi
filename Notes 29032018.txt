@@ -1,0 +1,62 @@
+admin
+admin123
+
+
+Nexus: default link
+http://10.108.196.4:8081/nexus/#welcome (below user credientials)
+
+admin
+admin123
+
+sonarqube: default link
+http://10.108.196.4:9000/ 
+default username passowrd admin and admin
+
+for java - npm
+for pythan - NuGet 
+rubuy on rails - RubyGem
+
+creating Artifact steps:
+
+Go to http://mavenrepository.com
+
+search for log4j-core int he search bar
+
+download pom and jar files and save in a location:
+
+upload pom.xml and jar file in the Nexus Repository under artifacts tab
+
+
+
+
+--------------GIT-------------GITHUB (cloud)---------------SONARCUBE (code quality)--------------Jenkins (CI) then develops reports to TEST, UAT, Prd
+
+		|
+		|
+	Maven---------------Nexus to create repository
+
+
+Sonarqube notes:
+
+Very important, refer diagram "Sonarqube overview"
+
+sonarqube.org
+
+go to spring ---
+
+in Jva - Sprint Tool Suite
+
+go to help -->Install new software --? in work with add link "http://downloads.sonarsource.com/eclipse/eclipse/" 
+
+
+
+
+
+
+
+
+
+
+
+
+

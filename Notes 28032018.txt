@@ -1,0 +1,30 @@
+https://pivotal.io/
+
+is a cloud which is available for free
+
+upto 2 GB it is free
+
+PCF is very easy - some basic windows commands need to be used
+
+Coming back to MAVEN:
+
+Artifact Id (project) is the main folder
+Group Id (pakage) is the child folder
+
+Ant and Maven are the one 
+
+in java gip files are called packaging
+
+https://swagger.io/ is popular for the documentation and design to test and deployment
+
+go tp location https://www.sonatype.com/oss-thank-you-win64.zip
+and download the nexus zip file 
+
+if the services of nexus is working fine  go tp the location localhost:8081/nexus/#welcome
+
+http://10.108.196.4:8081/nexus/#welcome 
+
+login using below default credientiasl
+admin
+admin123
+
