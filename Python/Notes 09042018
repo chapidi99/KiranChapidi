@@ -75,6 +75,21 @@ python miniconda - flovour of installer command is conda
 
 Vagrant: https://pypi.python.org/pypi/python-vagrant - configuration management tools this is the right tool
 
+Git is mandatory to install vagrant
+
+------------------------------------
+
+install pip
+
+using the command pip install pygogo - got ssl issue
+
+using the command pip install pygogo - got ssl issue
+
+easy_install pygogo
+
+pypi.python.org is the central repository hub to install any libraries
+
+
 
 
 
