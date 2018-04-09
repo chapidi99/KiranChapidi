@@ -86,7 +86,7 @@ using the command pip install pygogo - got ssl issue
 
 using the command pip install pygogo - got ssl issue
 
-easy_install pygogo
+easy_install pygogo 
 
 pypi.python.org is the central repository hub to install any libraries
 
