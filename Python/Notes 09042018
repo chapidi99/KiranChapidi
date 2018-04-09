@@ -1,0 +1,81 @@
+Python:
+
+Go to python.org and click on download and download python 3.6 version:
+
+>>> indicates REPL consle, when you typed Python as command it moved to REPL mode-
+
+R - Read
+E - Evaluate
+P - Print
+L - Loop
+
+there we cant do the developemnt
+
+REPL is used by administrators and developers who is gogin to do the UAt test,.. but pure development cant be done here
+
+only testing for run a batch file can be run from thsi locatij >>>
+
+FOr pyhton w gogin to use Pycharm - for front end and for python
+
+pydev - if ou are a java programmer then if you want to work on python also .. use plug in pydev from eclips 
+
+suppose, if you are workinfg on purely python dev use pycharm.
+
+IOT, blockchain and bigdata - Python has more demand.
+
+Python is a group of multiple module
+
+Python frameworks Datajango, straberry and flask is used for web design.
+
+for ETL - Pandas framework is popular ans peatel is also used but dont have so many features
+
+------------------------------------------------------------------
+Pycharm - development
+
+logging: pygogo, log4python, pythonlogginglibrary
+
+unit testing: pytest
+
+server: NGINX is the future-- 
+
+cloud logging: sentry logging
+
+BDD: Cucumber (Jython)
+
+continious quality: sonarcube for python is also there
+
+Continious integrations: Jenkins
+
+------------------------------------------------------------
+
+Machine Learning: SCpylibrary need to be installed - is a generic you can use amny tools and technologies on admin, web dev, server etc./ official site http://scikit-learn.org/stable/
+
+Why python is east:
+
+structual approcah (everything is staright forward) and object orineted (not every thing is straight forward).
+
+Databases: Python DB module framework, SQL alchemy(ORM)
+
+SQLAlchemy is a framework related to the databses: - official site https://www.sqlalchemy.org/
+Installing libraries: PIP, pip3 and easy_install 
+
+https://www.nginx.com/
+https://sentry.io/welcome/
+
+for machine learning use the offical site: http://scikit-learn.org/stable/
+
+
+
+C:\Users\Learning\AppData\Local\Programs\Python\Python36-32\Scripts
+go to scripts, pip3.6
+
+anaconda - machine learning, deep learning data science - official site to install https://anaconda.org/
+
+python miniconda - flovour of installer command is conda
+
+Vagrant: https://pypi.python.org/pypi/python-vagrant - configuration management tools this is the right tool
+
+
+
+
+
