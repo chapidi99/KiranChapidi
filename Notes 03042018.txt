@@ -1,0 +1,28 @@
+
+Containers:
+vagrant is more advanced than docker.
+
+
+springboot applicatins aare very easy yo run on docker.
+
+install docker.exe fromt he below location
+
+https://docs.docker.com/toolbox/toolbox_install_windows/
+
+online terminal docker is provided by below websirte
+https://katacoda.com/
+
+https://github.com/vasu34k12/NN_Training/tree/master/Docker
+
+password - 6f9398ae89fa441b8615c6d6ca958d0b
+e7423c193f9644d68469855165dd393a
+
+go to this location below give the password generated in the dockers
+http://192.168.99.100:8080/
+
+install plug ins -- go to below location 
+https://updates.jenkins.io/stable-2.60/latest/
+
+download the github.hpi and github-api.hpi and upload the plug ins in the below location 
+
+http://192.168.99.100:8080/pluginManager/advanced

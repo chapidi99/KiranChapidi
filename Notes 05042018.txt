@@ -1,0 +1,27 @@
+go to github.com/chapidi99
+
+create new repository and also create a floder on your local computer
+
+go to gitbash and run below commands step by step
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/chapidi99/example.git
+git push -u origin master
+------------------------------------------------------------------------------
+
+MCD-
+
+under testing phase below 2 tdd (test driven development- mci java) and bdd (mcd) comes under
+
+tdd(test driven development): junit*, mockito*, powermockito, ngtest, ngjunit
+testers, QA and developers will work on tdd
+
+
+bdd(behaviour driven development): cucumber (gherkin english language), 
+managers, architects, BA or functional consultants.
+
+no role for admin here in bdd: 
+
+
+java is a web start technonoly its a browser based
