@@ -15,7 +15,101 @@ Deision making: If, if then else and nested condition.
 
 Loop concept: while, for and nested
 
-above is structured programming language
----------------------------------------------------------------------------
+
+
+before writing an code we need to know about IMPORT:
+
+import
+main: 
+function: 
+
+intendation: if not followed spaces properly it will throw intendation issues.
+
+https://developers.google.com/edu/python/strings
+
+for python developers
+-------------------------------------------------
+
+boolean operators
+test = (77,0)
+print(type (test), 'is', bool(test))
+
+print(test)
+
+test = [0]
+print(type (test), 'is', bool(test))
+
+test = 0.0
+print(type (test), 'is', bool(test))
+
+test = None
+print(type (test), 'is', bool(test))
+
+test=()
+print(type (test), 'is', bool(test))
+
+---------------------------------------------
+
+lists = ['Srini', 'Kiran', 'AIA', 'Scope', 'coke']
+
+
+print (lists)
+print (lists[0])
+print (lists[1:3])
+print (lists[2:])
+print(lists[2])
+#tinylist *2)
+#print (lists + tinylist)
+
+lists[3]='coco'
+print(lists[2+1])
+
+print(enumerate(lists))
+
+---------------------------------------------------
+
+to find variable type code:
+
+counter = 100
+miles = 1000.0
+name = "John"
+
+print(counter)
+print (type (miles))
+print (name)
+
+----------------------------------------------------
+
+strings.py
+
+seq = ("cococola", "disc", "s")
+print (seq())"""
+
+str = '  Hello kiran chapidi!  '
+#print (str)
+#print (str[0])
+#print (str[2:5])
+#print (str[2:])
+#print (str * 2)
+print (str + "TEST")
+print (str.lower())
+print (str.upper())
+print (str.strip())
+print (str.replace('a','z'))
+print (str.count('a'))
+print (str.find('k'), 'th position')
+print(str[:-5])
+
+
+-----------------------------------------------------
+
+hello.py
+
+print('Hi Python')
+print("Hi Panda")
+print('''Hi PYGO''')
+"""Hi this is the Python class"""
+
+--------------------
 
 
